@@ -80,6 +80,7 @@ Machine Run Bit	W0.00
 
 
 
+<img width="1820" height="864" alt="image" src="https://github.com/user-attachments/assets/1a2da78d-f7b7-4759-8173-14e7affe962b" />
 
 
 
